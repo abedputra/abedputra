@@ -2,4 +2,4 @@
 - 👀 I’m interested in Web and App tech
 - 🌱 I’m currently learning Golang
 - 📫 How to reach me? contact me at contact@abedputra.my.id and get in touch with me https://abedputra.my.id
-- 🎥 https://www.youtube.com/@muliareview/videos
+- 🎥 https://www.youtube.com/@LoveToCoding
