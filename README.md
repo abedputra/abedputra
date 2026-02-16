@@ -5,7 +5,8 @@ I build scalable web systems, REST APIs, and mobile apps — clean, reliable, an
 
 ---
 
-### 🧠 About Me
+### 👨🏻‍💻 About Me
+
 - 🌍 Based in Indonesia  
 - 👀 Interested in **Web & App Tech**
 - 🌱 Currently learning **Golang | Python**
@@ -15,6 +16,7 @@ I build scalable web systems, REST APIs, and mobile apps — clean, reliable, an
 ---
 
 ### 🔗 Connect With Me
+
 [![Website](https://img.shields.io/badge/Website-abedputra.my.id-blue?style=flat)](https://abedputra.my.id)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abed%20Putra-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abed-putra/)  
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-1.2k%20Reputation-orange?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/5887075/abed-putra)  
@@ -23,6 +25,7 @@ I build scalable web systems, REST APIs, and mobile apps — clean, reliable, an
 ---
 
 ### 🧰 Tech Stack
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)  
 ![Laravel](https://img.shields.io/badge/Laravel-EF3B2D?style=flat&logo=laravel&logoColor=white)  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)  
@@ -33,6 +36,7 @@ I build scalable web systems, REST APIs, and mobile apps — clean, reliable, an
 ---
 
 ### 🏅 Stack Overflow Highlights
+
 [![Gold Badges](https://img.shields.io/badge/Gold%20Badges-2-FFD700)](https://stackoverflow.com/users/5887075/abed-putra)
 [![Silver Badges](https://img.shields.io/badge/Silver%20Badges-21-C0C0C0)](https://stackoverflow.com/users/5887075/abed-putra)
 [![Bronze Badges](https://img.shields.io/badge/Bronze%20Badges-41-CD7F32)](https://stackoverflow.com/users/5887075/abed-putra)
@@ -48,6 +52,7 @@ I build scalable web systems, REST APIs, and mobile apps — clean, reliable, an
 ---
 
 ### 📦 Market Stats
+
 [![CodeCanyon Sales](https://img.shields.io/badge/CodeCanyon%20Sales-273-orange)](https://codecanyon.net/user/muliatech/portfolio)
 [![CodeCanyon Rating](https://img.shields.io/badge/Rating-4.8%2F5-blue?style=flat)](https://codecanyon.net/user/muliatech/portfolio)
 
