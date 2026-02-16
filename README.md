@@ -34,7 +34,7 @@ With 10+ years of experience delivering commercial-grade software, I specialize 
 ![CI/CD](https://img.shields.io/badge/CI/CD-GitHub_Actions-black?logo=githubactions)
 ![VPS](https://img.shields.io/badge/Deployment-VPS-success)
 
-Architected and developed a scalable workforce attendance platform supporting fingerprint, QR, PIN, and face recognition authentication.
+Architected and developed a scalable workforce attendance platform that supports fingerprint, QR code, PIN, and face recognition authentication.
 
 Key highlights:
 
@@ -73,7 +73,7 @@ Key contributions:
 ---
 
 ### 💼 Commercial Software Products  
-Independent Software Author
+**Independent Software Author**
 
 ![Commercial](https://img.shields.io/badge/Product-Commercial-blue)
 ![End-to-End](https://img.shields.io/badge/Ownership-End_to_End-success)
@@ -84,25 +84,25 @@ Developed and maintained Laravel & Flutter software products used by paying cust
 - 4.8 / 5 average rating  
 - Full lifecycle ownership: architecture → deployment → support  
 
-🔗 https://codecanyon.net/user/muliatech/portfolio
+🌐 https://codecanyon.net/user/muliatech/portfolio
 
 ---
 
 ## 🧰 Technical Stack
 
-### Backend
+**Backend**  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-EF3B2D?style=flat&logo=laravel&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
-### Mobile
+**Mobile**  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
-### Database
+**Database**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
-### DevOps & Infrastructure
+**DevOps & Infrastructure**  
 ![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=flat&logo=github)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-black?style=flat&logo=githubactions)
@@ -114,15 +114,15 @@ Developed and maintained Laravel & Flutter software products used by paying cust
 
 ## 🏆 Recognition
 
-### 💬 Stack Overflow 
+**Stack Overflow**   
 [![Gold Badges](https://img.shields.io/badge/Gold%20Badges-2-FFD700)](https://stackoverflow.com/users/5887075/abed-putra) 
 [![Silver Badges](https://img.shields.io/badge/Silver%20Badges-21-C0C0C0)](https://stackoverflow.com/users/5887075/abed-putra) 
 [![Bronze Badges](https://img.shields.io/badge/Bronze%20Badges-41-CD7F32)](https://stackoverflow.com/users/5887075/abed-putra) 
 
-### 🏅 PHP Innovation Awards 
-[![Innovation Award](https://img.shields.io/badge/PHPClasses-Innovation_Award-gold?style=for-the-badge&logo=php)](https://www.phpclasses.org/browse/author/1399477.html) 
-[![Winner](https://img.shields.io/badge/Winner-1_Time-brightgreen?style=for-the-badge)](https://www.phpclasses.org/browse/author/1399477.html) 
-[![Nominee](https://img.shields.io/badge/Nominee-6_Times-blue?style=for-the-badge)](https://www.phpclasses.org/browse/author/1399477.html) 
+**PHP Innovation Awards**  
+[![Innovation Award](https://img.shields.io/badge/PHPClasses-Innovation_Award-gold?style=flat&logo=php)](https://www.phpclasses.org/browse/author/1399477.html) 
+[![Winner](https://img.shields.io/badge/Winner-1_Time-brightgreen?style=flat)](https://www.phpclasses.org/browse/author/1399477.html) 
+[![Nominee](https://img.shields.io/badge/Nominee-6_Times-blue?style=flat)](https://www.phpclasses.org/browse/author/1399477.html) 
 
 ---
 
@@ -130,3 +130,8 @@ Developed and maintained Laravel & Flutter software products used by paying cust
 
 Interested in building scalable backend systems and reliable SaaS platforms.  
 Let’s connect.
+
+[![Website](https://img.shields.io/badge/Website-abedputra.my.id-blue?style=flat)](https://abedputra.my.id) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abed%20Putra-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abed-putra/) 
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-1.2k%20Reputation-orange?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/5887075/abed-putra)
+
