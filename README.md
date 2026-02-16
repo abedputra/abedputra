@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Abed Putra
 
-💻 **Full-Stack Web & Mobile Developer**  
+💻 **Software Engineering | Backend & Mobile Developer**  
 I build scalable web systems, REST APIs, and mobile apps — clean, reliable, and real-world ready.
 
 ---
@@ -8,7 +8,7 @@ I build scalable web systems, REST APIs, and mobile apps — clean, reliable, an
 ### 🧠 About Me
 - 🌍 Based in Indonesia  
 - 👀 Interested in **Web & App Tech**
-- 🌱 Currently learning **Golang**
+- 🌱 Currently learning **Golang | Python**
 - 🛠️ Experienced with **Laravel**, **Flutter**, **API Development**, and **Deployment**
 - 📫 Reach me at **abedputra@gmail.com**
 
@@ -37,8 +37,13 @@ I build scalable web systems, REST APIs, and mobile apps — clean, reliable, an
 [![Silver Badges](https://img.shields.io/badge/Silver%20Badges-21-C0C0C0)](https://stackoverflow.com/users/5887075/abed-putra)
 [![Bronze Badges](https://img.shields.io/badge/Bronze%20Badges-41-CD7F32)](https://stackoverflow.com/users/5887075/abed-putra)
 
+---
 
-🔗 https://stackoverflow.com/users/5887075/abed-putra
+### 🏅 My PHPClasses Achievements
+
+[![Innovation Award](https://img.shields.io/badge/PHPClasses-Innovation_Award-gold?style=for-the-badge&logo=php)](https://www.phpclasses.org/browse/author/1399477.html)
+[![Winner](https://img.shields.io/badge/Winner-1_Time-brightgreen?style=for-the-badge)](https://www.phpclasses.org/browse/author/1399477.html)
+[![Nominee](https://img.shields.io/badge/Nominee-6_Times-blue?style=for-the-badge)](https://www.phpclasses.org/browse/author/1399477.html)
 
 ---
 
@@ -48,8 +53,7 @@ I build scalable web systems, REST APIs, and mobile apps — clean, reliable, an
 
 ---
 
-⭐ **Let’s build something awesome!**
-
+### ⭐ Let’s build something awesome!
 
 [![af](https://github.com/user-attachments/assets/3eb95ad5-2fb0-477d-989e-da0eccd1d68d)](https://codecanyon.net/user/muliatech/portfolio)
 [![aqc](https://github.com/user-attachments/assets/1ce1e99f-d410-4726-a3f5-8cc7d72cdbd1)](https://codecanyon.net/user/muliatech/portfolio)
