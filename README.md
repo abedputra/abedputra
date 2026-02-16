@@ -8,7 +8,7 @@ I design and build scalable backend systems, high-performance REST APIs, and pro
 
 ## 👨🏻‍💻 Professional Summary
 
-- 💼 8+ years of experience building commercial-grade software
+- 💼 10+ years of experience building commercial-grade software
 - 🧩 Strong expertise in backend architecture & API design
 - 🌍 Experience delivering systems used by paying customers globally
 - ⚙️ Focused on clean architecture, scalability, and performance
