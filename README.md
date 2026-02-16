@@ -10,54 +10,41 @@ With 10+ years of experience delivering commercial-grade software, I specialize 
 
 ---
 
-## 🏗 ⚙️ Engineering Expertise
+## 🏗 Engineering Focus
 
-### 🔹 🖥 Backend Architecture
-- RESTful API design & versioning  
-- Multi-tenant SaaS architecture  
-- OAuth2 / Laravel Passport authentication  
-- Role-Based Access Control (RBAC)  
-- Queue workers & scheduled jobs (Cron)  
-- Caching & database query optimization  
-- Secure payment gateway integrations  
-
-### 🔹 🧱 System Design & Scalability
-- Modular & service-layer architecture  
-- Repository & service pattern implementation  
-- Scalable database schema design  
-- High-load performance optimization  
-- Secure authentication & authorization flows  
-
-### 🔹 📱 Mobile–Backend Integration
-- Flutter + REST API integration  
-- Offline-first architecture (SQLite sync)  
-- Firebase Cloud Messaging (FCM)  
-- Google Sign-In & OAuth providers  
-
-### 🔹 🔄 DevOps & CI/CD
-- GitHub Actions pipeline automation  
-- Automated build & deployment workflows  
-- Environment-based configuration  
-- Production release management  
-- Version control (Git, GitHub, Bitbucket)  
+- Scalable REST API architecture  
+- Multi-tenant SaaS systems  
+- Performance optimization & query tuning  
+- Secure authentication (OAuth2 / RBAC)  
+- CI/CD automation with GitHub Actions  
+- VPS-based production deployment (Linux, Nginx)  
+- Backend–Flutter mobile integration  
 
 ---
 
-## 🚀 🧾 Selected Engineering Work
+## 🚀 Selected Engineering Work
 
 ### 🏢 Smart Absens — Workforce Management SaaS  
 **Founder & Lead Engineer**
 
-Architected and developed a scalable workforce attendance platform supporting:
+![SaaS](https://img.shields.io/badge/Type-SaaS-blue)
+![Multi-Tenant](https://img.shields.io/badge/Architecture-Multi_Tenant-success)
+![REST API](https://img.shields.io/badge/API-REST-success)
+![OAuth2](https://img.shields.io/badge/Auth-OAuth2-blue)
+![CI/CD](https://img.shields.io/badge/CI/CD-GitHub_Actions-black?logo=githubactions)
+![VPS](https://img.shields.io/badge/Deployment-VPS-success)
 
-- 🔐 Multi-authentication (Fingerprint, QR, PIN, Face Recognition)  
-- ⚡ Real-time attendance processing  
-- 🏢 Multi-tenant company isolation  
-- 💳 Subscription billing (PayPal integration)  
-- 🔄 CI/CD pipeline with GitHub Actions  
-- 📲 Offline-first mobile synchronization  
+Architected and developed a scalable workforce attendance platform supporting fingerprint, QR, PIN, and face recognition authentication.
 
-**Tech Stack:** Laravel 11, MySQL, Laravel Passport, Flutter, Riverpod, SQLite, FCM  
+Key highlights:
+
+- Multi-tenant company data isolation  
+- Real-time attendance processing  
+- Subscription billing integration (PayPal)  
+- Offline-first mobile synchronization  
+- CI/CD automated deployment pipeline  
+
+**Stack:** Laravel 11, MySQL, Laravel Passport, Flutter, Riverpod, SQLite, FCM  
 
 🌐 https://smartabsens.com/
 
@@ -66,85 +53,80 @@ Architected and developed a scalable workforce attendance platform supporting:
 ### 🌍 I Entry — Foreign Worker Management System (Malaysia)  
 **Senior Software Engineer**
 
+![Enterprise](https://img.shields.io/badge/System-Enterprise-blue)
+![Performance](https://img.shields.io/badge/Performance-Optimized-success)
+![REST API](https://img.shields.io/badge/API-REST-success)
+![RBAC](https://img.shields.io/badge/Security-RBAC-important)
+
 Designed and implemented backend architecture used by thousands of workers across Malaysia.
 
-**Key Contributions:**
+Key contributions:
 
-- 🧩 Built core modules (attendance, health workflow, housing, dashboards)  
-- 🚀 Improved API performance by 30–40% via query optimization & caching  
-- 🔗 Integrated Laravel backend with Flutter mobile applications  
-- 🔄 Maintained reliability using queue workers & validation layers  
-- 🛡 Implemented secure authentication & access control systems  
+- Built core system modules (attendance, health workflow, housing, dashboards)  
+- Improved API performance by 30–40% through query optimization & caching  
+- Integrated Laravel backend with Flutter mobile applications  
+- Implemented secure authentication & role-based access control  
+- Maintained reliability using queue workers & validation layers  
 
-🌐 https://ientry.com.my
+🌐 https://ientrymalaysia.com/
 
 ---
 
-### 💼 Commercial Software Products (Envato Author)
+### 💼 Commercial Software Products  
+Independent Software Author
 
-Developed and maintained commercial Laravel & Flutter products used by paying customers worldwide.
+![Commercial](https://img.shields.io/badge/Product-Commercial-blue)
+![End-to-End](https://img.shields.io/badge/Ownership-End_to_End-success)
 
-- 💰 273+ verified software sales  
-- ⭐ 4.8 / 5 average rating  
-- 🔄 Full product lifecycle ownership (architecture → deployment → support)  
+Developed and maintained Laravel & Flutter software products used by paying customers globally.
+
+- 273+ verified software sales  
+- 4.8 / 5 average rating  
+- Full lifecycle ownership: architecture → deployment → support  
 
 🔗 https://codecanyon.net/user/muliatech/portfolio
 
 ---
 
-## 📊 📈 Engineering Impact
+## 🧰 Technical Stack
 
-- 🧠 10+ years professional software development experience  
-- 🌍 Systems serving thousands of active users  
-- ⚙️ Production-grade SaaS architecture  
-- 🚀 API performance improvements up to 40%  
-- 🌎 Multi-country customer base  
-
----
-
-## 🧰 🛠 Technical Stack
-
-### 🖥 Backend
+### Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-EF3B2D?style=flat&logo=laravel&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
-### 📱 Mobile
+### Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
-### 🗄 Database
+### Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
-### 🔄 DevOps & CI/CD
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-black?style=flat&logo=githubactions)
+### DevOps & Infrastructure
 ![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=flat&logo=github)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-black?style=flat&logo=githubactions)
+![Linux](https://img.shields.io/badge/Linux-Server-FCC624?style=flat&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-Web_Server-009639?style=flat&logo=nginx&logoColor=white)
+![VPS](https://img.shields.io/badge/Deployment-VPS-success)
 
 ---
 
-## 🏆 🏅 Recognition
+## 🏆 Recognition
 
-### 💬 Stack Overflow
-- 🥇 2 Gold Badges  
-- 🥈 21 Silver Badges  
-- 🥉 41 Bronze Badges  
-https://stackoverflow.com/users/5887075/abed-putra
+### 💬 Stack Overflow 
+[![Gold Badges](https://img.shields.io/badge/Gold%20Badges-2-FFD700)](https://stackoverflow.com/users/5887075/abed-putra) 
+[![Silver Badges](https://img.shields.io/badge/Silver%20Badges-21-C0C0C0)](https://stackoverflow.com/users/5887075/abed-putra) 
+[![Bronze Badges](https://img.shields.io/badge/Bronze%20Badges-41-CD7F32)](https://stackoverflow.com/users/5887075/abed-putra) 
 
-### 🏅 PHP Innovation Awards
-- 🏆 Innovation Award Winner  
-- 🥇 Multiple nominations  
-https://www.phpclasses.org/
-
----
-
-## 🌐 🤝 Connect
-
-🌍 Website: https://abedputra.my.id  
-💼 LinkedIn: https://www.linkedin.com/in/abed-putra/  
-📺 YouTube: https://www.youtube.com/@LoveToCoding  
+### 🏅 PHP Innovation Awards 
+[![Innovation Award](https://img.shields.io/badge/PHPClasses-Innovation_Award-gold?style=for-the-badge&logo=php)](https://www.phpclasses.org/browse/author/1399477.html) 
+[![Winner](https://img.shields.io/badge/Winner-1_Time-brightgreen?style=for-the-badge)](https://www.phpclasses.org/browse/author/1399477.html) 
+[![Nominee](https://img.shields.io/badge/Nominee-6_Times-blue?style=for-the-badge)](https://www.phpclasses.org/browse/author/1399477.html) 
 
 ---
 
-## 🚀 Open to Senior Backend Opportunities
+## 🤝 Open to Remote Senior Backend Opportunities
 
-Interested in scalable backend systems, SaaS architecture, or distributed system design?  
+Interested in building scalable backend systems and reliable SaaS platforms.  
 Let’s connect.
